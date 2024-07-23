@@ -1,0 +1,9 @@
+Makes coins do things:
+- Increased character damage
+
+Roadmap:
+- Movement speed
+- Health
+
+Change Notes:
+- Added draggable UI element

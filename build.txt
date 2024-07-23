@@ -1,0 +1,3 @@
+displayName = Coin Effects
+author = MyBulwark
+version = 0.1.7

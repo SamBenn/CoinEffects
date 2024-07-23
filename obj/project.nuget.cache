@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "155nVBm7Rew=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sam\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CoinEffects\\CoinEffects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sam\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

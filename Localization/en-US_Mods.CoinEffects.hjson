@@ -1,0 +1,41 @@
+Configs: {
+	CoinDamageConfig: {
+		DisplayName: Coin Damage
+		Headers.GoldToDamage: Gold To Damage
+
+		Bank1: {
+			Tooltip: ""
+			Label: Check piggy bank
+		}
+
+		Bank2: {
+			Tooltip: ""
+			Label: Check safe
+		}
+
+		Bank3: {
+			Tooltip: ""
+			Label: Check defender's forge
+		}
+
+		Bank4: {
+			Tooltip: ""
+			Label: Check void bag
+		}
+
+		BasePercent: {
+			Tooltip: The base affect of this mod without coins, set to 100 for default attack value
+			Label: Base Percent (%)
+		}
+
+		GoldToDamagePercent: {
+			Tooltip: The amount of damage you will gain, as a percentage, when you have 1 gold coin
+			Label: Gold To Damage Percent (%)
+		}
+
+		DiminishingReturnsPercentage: {
+			Tooltip: Percent of diminishing returns per platinum coin (Multiplicative). Doesn't effect base percent. Set to 0 for no diminishing returns
+			Label: Diminishing Returns Percent (%)
+		}
+	}
+}
